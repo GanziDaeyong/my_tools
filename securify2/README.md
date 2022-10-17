@@ -36,3 +36,11 @@ export LD_LIBRARY_PATH=/home/securify2/securify/staticanalysis/libfunctors
 securify ./securify/staticanalysis/testContract.sol
 
 ```
+
+### docker
+
+```
+
+docker pull iwin1203/daeyong_securify2:latest
+
+```
