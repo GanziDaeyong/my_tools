@@ -2,7 +2,7 @@ Forked from Securify2
 
 ### install
 
-ubuntu18.04 기준
+ubuntu18.04 기준 **AMD기준 / ARM아님!**
 
 ```
 apt-get update
