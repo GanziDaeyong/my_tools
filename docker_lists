@@ -1,0 +1,8 @@
+docker start -i centos_c4udit
+
+docker start -i centos_smartcheck
+
+docker start -i centos_conkas
+
+docker start -i securifyamd
+
