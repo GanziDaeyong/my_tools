@@ -1,0 +1,14 @@
+<p> In the following example, the <code>send</code> function is used:</p>
+<pre>
+<code>
+if(!addr.send(42 ether)) {
+    revert();
+}
+</code>
+</pre>
+<p>Preferred alternative:</p>
+<pre>
+<code>
+addr.transfer(42 ether);
+</code>
+</pre>
